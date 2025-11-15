@@ -1,0 +1,22 @@
+## GitHub Repository Description (350자 이내)
+
+🐮 도우리 - 2030 통일 한국의 남북 소 공동육아 크라우드펀딩 플랫폼
+
+통일 해커톤 프로젝트 | "2030이 만들어가는 통일 한국의 미래" 주제 | React 19 + Vite + Tailwind CSS 기반 프로토타입
+
+남한 투자자와 북한 농장주가 다마고치 스타일의 게임화된 UX로 송아지를 함께 키우며 경제적 신뢰를 구축합니다. 조각투자(20,000원), 마이크로 후원(1,000~5,000원), 실시간 육아일기 피드로 투명한 투자 경험을 제공합니다.
+
+🛠 Tech Stack: React 19, Vite Rolldown, Tailwind 4, Context API, React Router 7
+⚡ 6시간 MVP 완성 | 모바일 퍼스트 | 포트폴리오용 프로토타입
+
+---
+
+## 영문 버전 (English, 350 characters)
+
+🐮 Douri - North-South Korea Cattle Co-parenting Crowdfunding Platform for Unified Korea 2030
+
+Unification Hackathon Project | React 19 + Vite + Tailwind | Tamagotchi-style Investment UX
+
+South Korean investors & North Korean farmers co-raise calves through gamified crowdfunding. Micro-donations (₩1,000~5,000), real-time farm diaries, health/happiness metrics for transparent trust-building.
+
+6-hour MVP | Mobile-first | Portfolio prototype for unified Korean economic cooperation

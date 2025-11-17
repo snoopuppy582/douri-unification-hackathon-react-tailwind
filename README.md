@@ -279,8 +279,8 @@ MIT License - 교육 및 포트폴리오 목적으로 자유롭게 사용 가능
 5. Open a Pull Request
 
 ### **Contact**
-- **프로젝트 관리자**: [Your Name]
-- **이메일**: [your.email@example.com]
+- **프로젝트 관리자**: [문건호]
+- **이메일**: [mnb0968@naver.com]
 - **해커톤**: 2030 통일 해커톤
 
 ---
